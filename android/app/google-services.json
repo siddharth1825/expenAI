@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "481676215854",
+    "firebase_url": "https://expensage-default-rtdb.firebaseio.com",
+    "project_id": "expensage",
+    "storage_bucket": "expensage.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:481676215854:android:b2637926bfd6953e3941bf",
+        "android_client_info": {
+          "package_name": "com.example.expensage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "481676215854-kv38glle3a309f77b7dsorkid1tauksr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.expensage",
+            "certificate_hash": "d80934db85a19c92ebf9edd1a2291faf0bb4518e"
+          }
+        },
+        {
+          "client_id": "481676215854-uurrueobon54od1rjn5ur8r3m6e31aav.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlTwngcYe9BGiu1SZ9GPw4LxMn56gEHlQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "481676215854-uurrueobon54od1rjn5ur8r3m6e31aav.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "481676215854-rs98ntot5tv6meepuc5o2oa69ki7evn9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.expensage"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
